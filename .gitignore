@@ -1,0 +1,14 @@
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/style.css
+!/app.js
+!/assets/
+/assets/*
+!/assets/*.jpg
+!/assets/*.webp
+!/assets/*.png
+!/assets/*.css
+!/assets/SOURCES.md
+!/assets/fonts/
